@@ -12,3 +12,23 @@ The game alternates between day and night phases. During the day, sheep wander f
 
 The game ends in one of two ways. If all sheep die at any point, the game is over and the shepherd collapses on the ground. If the shepherd successfully protects at least one sheep for three consecutive nights, the game is won and a victory screen is displayed.
 
+ 🖥️ Controls
+
+| Key            | Action                              |
+|----------------|-------------------------------------|
+| W              | Move Forward                        |
+| S              | Move Backward                       |
+| A              | Rotate Left                         |
+| D              | Rotate Right                        |
+| Arrow Left     | Rotate Camera Left                  |
+| Arrow Right    | Rotate Camera Right                 |
+| Arrow Up       | Zoom In                             |
+| Arrow Down     | Zoom Out                            |
+| Right Click    | Toggle First / Third Person View    |
+| SPACE          | Chop Wood (Day)                     |
+| E              | Throw Stone (Night)                 |
+| F              | Build / Add Fire (Center)           |
+| V              | Whistle (Call Sheep)                |
+| C              | Toggle Cheat Mode (Night Only)      |
+| R              | Restart Game                        |
+| ENTER          | Start Game                          |
