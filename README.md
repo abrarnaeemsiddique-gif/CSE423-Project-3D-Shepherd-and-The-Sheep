@@ -32,3 +32,12 @@ The game ends in one of two ways. If all sheep die at any point, the game is ove
 | C              | Toggle Cheat Mode (Night Only)      |
 | R              | Restart Game                        |
 | ENTER          | Start Game                          |
+
+
+▶️ How to Run
+
+Ensure that Python 3 is installed on your system along with the required OpenGL libraries. After installing PyOpenGL and PyOpenGL_accelerate, the game can be started by running the main Python file from the terminal.
+
+🏆 Objective
+
+Survive three consecutive nights while keeping at least one sheep alive. If the sheep are lost, the shepherd loses. If the sheep survive, the player wins.
